@@ -3,7 +3,7 @@
 
 This project is a static website that showcases the cultural beauty, adventure spirit, and scenic wonders of **Uttarakhand**, India. It includes multiple pages like Home, About, Gallery, and Contact—all styled with custom CSS to create an engaging experience for visitors.
 
-🌐 **Live Site:** _[Insert your website URL here]_
+🌐 **Live Site:** _[https://khushalpapnai.github.io/dashboard-Uttarakhand/home_town.html]_
 
 ---
 
@@ -73,7 +73,7 @@ _No server required as it's a static front-end project._
 ## 🙌 Author
 
 Built with love to celebrate **Uttarakhand – Devbhumi** ❤️  
-Reach out at: `info@uttarakhandexplore.com`
+Reach out at: `https://khushalpapnai.github.io/dashboard-Uttarakhand/home_town.html`
 
 ---
 
